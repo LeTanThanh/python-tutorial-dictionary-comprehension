@@ -1,2 +1,6 @@
 if __name__ == "__main__":
-  print("Python Dictionary Comprehension")
+  # Introduction to Python dictionary comprehension
+
+  """
+  { key: value for (key, value) in dict.items() if condition }
+  """
